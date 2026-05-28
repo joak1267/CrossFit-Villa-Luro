@@ -1323,7 +1323,7 @@ export default function CrossFitVillaLuroDemo() {
               
               {/* Gmail */}
               <a 
-                href="mailto:crossfitvillaluro@gmail.com" 
+                href="mailto:crossfitemom@gmail.com" 
                 title="Gmail"
                 className="w-10 h-10 rounded-full border border-red-500/20 bg-red-500/5 text-red-400 hover:bg-red-500 hover:text-white hover:border-red-500 flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-[0_0_15px_rgba(239,68,68,0.4)]"
               >
